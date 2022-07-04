@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\BulkyBook\BulkyBook.utility\bin\Debug\net6.0\BulkyBook.utility.deps.json
+C:\Users\HP\source\repos\BulkyBook\BulkyBook.utility\bin\Debug\net6.0\BulkyBook.utility.dll
+C:\Users\HP\source\repos\BulkyBook\BulkyBook.utility\bin\Debug\net6.0\BulkyBook.utility.pdb
+C:\Users\HP\source\repos\BulkyBook\BulkyBook.utility\obj\Debug\net6.0\BulkyBook.utility.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\BulkyBook\BulkyBook.utility\obj\Debug\net6.0\BulkyBook.utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\BulkyBook\BulkyBook.utility\obj\Debug\net6.0\BulkyBook.utility.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\BulkyBook\BulkyBook.utility\obj\Debug\net6.0\BulkyBook.utility.AssemblyInfo.cs
+C:\Users\HP\source\repos\BulkyBook\BulkyBook.utility\obj\Debug\net6.0\BulkyBook.utility.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BulkyBook\BulkyBook.utility\obj\Debug\net6.0\BulkyBook.utility.dll
+C:\Users\HP\source\repos\BulkyBook\BulkyBook.utility\obj\Debug\net6.0\refint\BulkyBook.utility.dll
+C:\Users\HP\source\repos\BulkyBook\BulkyBook.utility\obj\Debug\net6.0\BulkyBook.utility.pdb
+C:\Users\HP\source\repos\BulkyBook\BulkyBook.utility\obj\Debug\net6.0\ref\BulkyBook.utility.dll
